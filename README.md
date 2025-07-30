@@ -1,5 +1,5 @@
 # GARMENT-YOLO
-GARMENT-YOLO Accurate Instance Segmentation of Garment for Intelligent Robot Tie-Dye Based on Improved YOLOv11
+Efficient real-time instance segmentation of garment for intelligent robot tie-dye based on you only look once version 11 network
 ## Notice on Code and Dataset Availability
 Thank you for your interest in this project.
   To ensure compliance with institutional policies and confidentiality requirements, the source code and associated datasets related to this work are **not publicly available at this moment**. However, in line with our commitment to open science and reproducibility, we will release the full codebase and datasets **after the official publication** of the corresponding research article.
